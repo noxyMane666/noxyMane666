@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @noxyMane666
 - 👀 I’m interested in graffiti and coding
 - 🌱 I’m currently learning c# n blunt_rolling in common
-- 📫 You'd never reace me bro
+- 📫 You'd never reach me bro, so even dont try
 - ⚡ Fun fact: I love mj n dad jokes
 
 <!---
